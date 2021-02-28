@@ -1,7 +1,7 @@
 # autograding-example-cpp-catch
 
 *Learning Autograding with C/C++ and Catch2 - Prof. Igor Machado Coelho*
-# MÁRCIO DE AMORIM MACHADO FERREIRA
+## MÁRCIO DE AMORIM MACHADO FERREIRA
 
 **IMPORTANT:** If autograding (GitHub Actions) doesn't start for you, *check again the Invitation Link for
 the activity* and hit the link named **update**.
